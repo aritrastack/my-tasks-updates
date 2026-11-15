@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.0",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/aritrastack/my-tasks-updates/releases/download/v1.1.0/my-tasks-v1.1.0.apk",
-  "releaseNotes": "build: implement semantic versioning workflow",
-  "sha256": "0b02395c4701a5fdd970659f5136019be7a275b8062df8873eef2ecfec73a002"
+  "versionName": "1.1.1",
+  "versionCode": 13,
+  "apkUrl": "https://github.com/aritrastack/my-tasks-updates/releases/download/v1.1.1/my-tasks-v1.1.1.apk",
+  "releaseNotes": "Performance improvements and bug fixes",
+  "sha256": "9069a95fd1f70ece4023a727f20c2d38626c25f05477f214d579232e12c9bbe5"
 }
