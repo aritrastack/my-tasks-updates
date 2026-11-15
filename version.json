@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.11",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/aritrastack/my-tasks-updates/releases/download/v1.0.11/my-tasks-v1.0.11.apk",
-  "releaseNotes": "test: enable dependency injection for app update repo",
-  "sha256": "484e7085f4cf78603126ac389fc9297086fcba3d27d60c28a93d96534cc9acda"
+  "versionName": "1.1.0",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/aritrastack/my-tasks-updates/releases/download/v1.1.0/my-tasks-v1.1.0.apk",
+  "releaseNotes": "build: implement semantic versioning workflow",
+  "sha256": "0b02395c4701a5fdd970659f5136019be7a275b8062df8873eef2ecfec73a002"
 }
