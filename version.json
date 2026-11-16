@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.0",
-  "versionCode": 16,
-  "apkUrl": "https://github.com/aritrastack/my-tasks-updates/releases/download/v1.4.0/my-tasks-v1.4.0.apk",
+  "versionName": "1.4.1",
+  "versionCode": 17,
+  "apkUrl": "https://github.com/aritrastack/my-tasks-updates/releases/download/v1.4.1/my-tasks-v1.4.1.apk",
   "releaseNotes": "Performance improvements and bug fixes",
-  "sha256": "5bfa28bbe6f87fb180af1f7ef088250350b0a4a4029daaba33e892a5e6dd2082"
+  "sha256": "c620cb60dddbf62ff9fe95b99edeb97cbd09c2dd00e342d1d9c54de8ee2e1a1c"
 }
